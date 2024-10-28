@@ -4,7 +4,7 @@
 
 💬 Ask me about SQL fundamentals maybe I could help you
 
-📫 How to reach me:   m.agbunagmarby@gmail.com
+📫 How to reach me:   [bluesky](https://bsky.app/profile/marbyallen.bsky.social)
 
 😄 Pronouns:          He/Him/Himmel
 
