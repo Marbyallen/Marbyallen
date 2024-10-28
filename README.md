@@ -1,6 +1,22 @@
 ## Hi there 👋
 
+🌱 I’m currently learning SQL and aiming to be a Data Engineer. 
+
+💬 Ask me about SQL fundamentals maybe I could help you
+
+📫 How to reach me:   m.agbunagmarby@gmail.com
+
+😄 Pronouns:          He/Him/Himmel
+
+⚡ Fun fact:          I like to read Manga. Top Genres: Thriller, Fantasy;
+My current favorite manga: **Tensura**
+
+
+
 <!--
+
+Datacamp Portfolio: 
+https://www.datacamp.com/portfolio/magbunagmarby
 **Marbyallen/Marbyallen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
